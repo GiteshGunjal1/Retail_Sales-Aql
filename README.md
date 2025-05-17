@@ -1,4 +1,4 @@
-# Retail_Sales-Aql
+# Retail_Sales-Sql
 
 ![image](https://github.com/user-attachments/assets/fed8efcf-c1c9-40c8-991e-47b14302b820)
 
